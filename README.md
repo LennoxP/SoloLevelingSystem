@@ -1,6 +1,6 @@
 ## Solo Leveling System
 
-# ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+## ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
 
 # 🇧🇷
 ### Primeiramente gostaria de avisar que todo o projeto feito aqui é de minha autoria, qualquer plágio não será tolerado. 
@@ -13,16 +13,16 @@
 
 ### python mark11.py 
 ### ou
-### vá em "dist" e execute.
+### vá em "mark11.exe" e execute.
 
 # 🇺🇸
 ## How to use?
 
 ### python mark11.py 
 ### or
-### go to "dist" and run.
+### go to "mark11.exe" and run.
 
-# ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+## ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
 
 #### pip install json
 #### pip install tk
@@ -30,7 +30,7 @@
 #### pip install ttk
 #### pip install messagebox
 
-# ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+## ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
 
 ### Fonts
 
